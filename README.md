@@ -35,4 +35,6 @@ python3 app.py
 
 
 ## NOTE
-Keep all the directories and files together ( and also do not rename any files/directories ). Failure of this may lead to errors.
+1. Keep all the directories and files together ( and also do not rename any files/directories ). Failure of this may lead to errors.
+2. The dataset used to train the model is *imaginary* and hence the model gives inaccurate results. Using real world dataset will definitely fetch good outcomes.
+3. The code of model training is also provided in a python notebook.
