@@ -28,8 +28,8 @@ python app.py
 ```
 ### For MacOS/ Linux
 ```bash
-pip3 model.py
-pip3 app.py
+python3 model.py
+python3 app.py
 ```
 #### The above commands will run a flask server at [localhost](http://127.0.0.1:5000) and the web-app will become functional.
 
